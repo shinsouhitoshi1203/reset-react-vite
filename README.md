@@ -1,6 +1,7 @@
 ### how to use this file for creating a blank Vite + React project
 
 Step 1: Create new Vite project, follow its instruction as usual
+
 Step 2: Get the file reset.sh to your vite project's folder (or simply copy the file bruh)
 
 Step 3: Open terminal in your IDE
